@@ -1,2 +1,2 @@
 # ailt9019-sandbox
-AILT9019
+Hello from Aretha! This repository is for testing my AILT9019 vibe-coding setup."
